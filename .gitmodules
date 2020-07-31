@@ -1,0 +1,12 @@
+[submodule "omoponfhir-omopv5-sql"]
+	path = omoponfhir-omopv5-sql
+	url = https://github.com/omoponfhir/omoponfhir-omopv5-sql.git
+	branch = 5.2
+[submodule "omoponfhir-omopv5-dstu2-mapping"]
+	path = omoponfhir-omopv5-dstu2-mapping
+	url = https://github.com/omoponfhir/omoponfhir-omopv5-dstu2-mapping.git
+	branch = sqlRender
+[submodule "omoponfhir-dstu2-server"]
+	path = omoponfhir-dstu2-server
+	url = https://github.com/omoponfhir/omoponfhir-dstu2-server.git
+	branch = sqlRender
