@@ -34,7 +34,7 @@
 	<description>OMOPonFHIR DSTU2 Server Build</description>
 
 	<modules>
-		<module>omoponfhir-omopv5-jpabase</module>
+		<module>omoponfhir-omopv5-sql</module>
 		<module>omoponfhir-omopv5-dstu2-mapping</module>
 		<module>omoponfhir-dstu2-server</module>
 	</modules>
