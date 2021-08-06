@@ -4,9 +4,10 @@ This repository is a server deployment package that lock down the version of inc
 This package is tested with Google Big Query instance. And, the server supports mapping for FHIR DSTU2 and OMOP v5.2
 
 ```
-**Note:** This repository contains submodules of anoter repositories that are needed. If you want to participate in development and contribute,
-please use the repositories directly as this submodule points to a certain commit point. Refer the follow repositories and use the latest 
-to work on the code.
+**Note:** This repository contains submodules of anoter repositories that are needed. If you want to participate in 
+development and contribute, please use the repositories directly as this submodule points to a certain commit point. 
+Refer the follow repositories and use the latest to work on the code.
+
 - path = omoponfhir-omopv5-sql
 - url = https://github.com/omoponfhir/omoponfhir-omopv5-sql.git
 - branch = 5.2
