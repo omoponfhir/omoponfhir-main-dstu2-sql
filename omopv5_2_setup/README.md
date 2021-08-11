@@ -18,4 +18,4 @@ psql -h localhost -p <port> -U postgres -W -d <database> -f CommonDataModel/OMOP
 8. (Optional only if you have your own data loaded to OMOP database and f_person table is empty)
    Use fhir_names/ folder to load f_person. Read the instruction in fhir_names/ folder.
 	 This will create entries with random names for the entries in the person table.
-10. Index the tables using CommonDataModel/PostgreSQL/OMOP\ CDM\ indexes\ required\ -\ PostgreSQL.sql 
+9. Index the tables using CommonDataModel/PostgreSQL/OMOP\ CDM\ indexes\ required\ -\ PostgreSQL.sql
