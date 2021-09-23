@@ -1,7 +1,7 @@
 [submodule "omoponfhir-omopv5-sql"]
 	path = omoponfhir-omopv5-sql
 	url = https://github.com/omoponfhir/omoponfhir-omopv5-sql.git
-	branch = 5.2
+	branch = master
 [submodule "omoponfhir-omopv5-dstu2-mapping"]
 	path = omoponfhir-omopv5-dstu2-mapping
 	url = https://github.com/omoponfhir/omoponfhir-omopv5-dstu2-mapping.git
